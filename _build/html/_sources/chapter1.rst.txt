@@ -20,16 +20,12 @@ A user is expected to have knowledge on jasper to be able to design how he/she w
 PROBLEM STATEMENT
 -----------------
 In the DHIS2 system, the existing functionality on designing a standard report is limited to technical knowledge on various technologies eg jasper or html reports hence the reports are not customizable and the user has less functionality of designing the report in terms of look and feel. 
-This calls for development of a Standard report designer application that will provide the user with an interface of designing customizable and highly configurable reports.
+This calls for development of a report designer application that will provide the user with an interface of designing customizable and highly configurable reports.
 
 OBJECTIVES
 ----------
 To develop an application which will help users to customize and configure their reports in a desired format.
 
-JUSTIFICATION
--------------
-
-
-PROJECT SCOPE
--------------
-
+PROPOSED SOLUTION
+-----------------
+To create a dynamic editor that will allow any user within dhis2 to create standard reports without neccesarily having to have any technical knowledge.
