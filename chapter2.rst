@@ -6,7 +6,7 @@ HOMEPAGE
 When the user opens the application, they will be directed to a page where a list of all created reports, if any, will be displayed.
 At the bottom right of the page, there is a **NEW** button that allows creation of a new standard report.
 
-.. image:: /_build/html/_images/page1.png
+.. image:: /_static/_images/page1.png
 
 SELECTTION OF REPORT ATTRIBUTES
 -------------------------------
@@ -23,4 +23,4 @@ The types of attributes that are expected include:
 
 The selected metadata is what will be used to create tables and charts for visualization. A list of whatever is selected will be displayed on the right side. 
 
-.. image:: /_build/html/_images/select_att.png
+.. image:: /_static/_images/select_att.png
